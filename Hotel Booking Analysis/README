@@ -1,1 +1,26 @@
+This Hotel Booking Analysis Dashboard provides insights into booking patterns, customer behavior, and cancellation trends across various metrics. Key components include:
 
+KPI Summary:
+
+Total Special Requests: 68K
+Total Cancellations: 44K
+Total Repeated Guests: 3,810
+Average Lead Time by Week Number:
+
+A line chart shows the average lead time (in days) across different weeks of the year, with lead times generally increasing through the first half of the year before declining towards the end.
+Average Stays by Customer Type:
+
+A bar chart displays the average number of weekend and weeknight stays, segmented by customer type:
+Contract, Transient, Group, and Transient-Party customers show varying preferences for weekend and weeknight stays.
+Bookings by Country and Market Segment:
+
+A map visualizes hotel bookings across global regions, with markers indicating market segments such as Aviation, Corporate, Direct, Groups, Offline, and more.
+Booking Cancellations and Repeated Guests:
+
+A pie chart represents the proportion of canceled bookings and repeated guests:
+Canceled Bookings: 44K (92.07%)
+Repeated Guests: 4K (7.93%)
+Country Filter:
+
+A filter panel allows users to view bookings by specific countries, with options like ABW (Aruba), AGO (Angola), AIA (Anguilla), and more.
+This dashboard offers an insightful breakdown of booking trends, including seasonal lead time patterns, customer stay preferences, global booking distribution, and cancellation rates, aiding in understanding customer behavior and optimizing hotel booking strategies.
