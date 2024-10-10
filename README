@@ -1,0 +1,34 @@
+Christmas Sales and Trends Analysis" provides a comprehensive overview of holiday sales performance across various metrics and categories. Key elements of the analysis include:
+
+KPI Cards:
+
+Net Revenue: 1.585K
+Total Sales: 1.654K
+Total Discount: 70K
+Total Quantity: 30K
+Sales Analysis by Category and Event:
+
+Sales are broken down by product categories (e.g., Toys, Electronics, Food, Decorations, Clothing) and major events like Black Friday, Christmas Market, and None. Each event displays different sales figures within each category.
+Total Sales by Year:
+
+A line chart illustrates total sales trends from 2018 to 2023, with values fluctuating between 267K and 286K.
+Total Sales by Return Flag:
+
+This bar chart distinguishes between sales that were returned (True, 838.56K) and those that weren’t (False, 815.7K).
+Sales Distribution by Event:
+
+A pie chart shows the proportion of total sales by event:
+None: 475.23K (28.73%)
+Black Friday: 695.45K (42.0%)
+Christmas Market: 483.57K (29.23%)
+Total Sales by Payment Type:
+
+Payment types are represented in a pie chart, showing the breakdown as follows:
+Cash: 421.58K (25.48%)
+Debit Card: 402.18K (24.31%)
+Online Payment: 408.98K (24.72%)
+Credit Card: 421.51K (25.48%)
+Total Sales by Gender:
+
+A bar chart shows sales by gender categories: Other (553.59K), Male (551.77K), and Female (548.91K).
+This dashboard provides an insightful breakdown of sales by product category, event, payment method, year, return status, and gender, allowing for detailed holiday season trend analysis.
